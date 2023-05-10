@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neo199806
+- 👋 Hi, I’m @Neo_sk
 - 👀 python
 - 🌱 
 - 💞️ I’m looking to collaborate on ...
