@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Neo_sk
-- 👀 python,java,html,css,javascript,react
-- 💞️ I’m looking to collaborate on ...
+- 👀 python,java,html,css,javascript,Flutter
 - 📫 neosekaleli@gmail.com
 - 📱 On a journey of creating a social media app
 -
